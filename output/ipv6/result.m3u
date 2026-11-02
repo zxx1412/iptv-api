@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/zxx1412/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-10-26 23:33:34
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-11-03 02:04:21
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -4071,6 +4071,8 @@ https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
 https://jwcdnqx.hebyun.com.cn/zb/xlzh/1500k/tzwj_video.m3u8
 #EXTINF:-1 tvg-name="平泉影视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/平泉影视.png" group-title="☘️河北频道",平泉影视
 https://jwcdnqx.hebyun.com.cn/zb/pqys/1500k/tzwj_video.m3u8
+#EXTINF:-1 tvg-name="平泉影视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/平泉影视.png" group-title="☘️河北频道",平泉影视
+https://jwcdnqx.hebyun.com.cn/live/pqys/1500k/tzwj_video.m3u8
 #EXTINF:-1 tvg-name="平泉综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/平泉综合.png" group-title="☘️河北频道",平泉综合
 https://jwcdnqx.hebyun.com.cn/live/pqzh/1500k/tzwj_video.m3u8
 #EXTINF:-1 tvg-name="昌黎" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/昌黎.png" group-title="☘️河北频道",昌黎
