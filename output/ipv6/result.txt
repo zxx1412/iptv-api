@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-11-03 02:04:21,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-11-17 02:18:42,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -240,11 +240,13 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 第一剧场,https://ed6e-f4b7-af48-6d55.kylintv.tv/live/chinamovie_iphone.m3u8
 第一剧场,https://7612-5516-affc-d88b.kylintv.tv/live/chinamovie_iphone.m3u8
 第一剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226959/index.m3u8
+第一剧场,https://raw.githubusercontent.com/adminouyang/jy/refs/heads/main/migu/ysp.js/dyjc
 风云剧场,https://hls-gateway.vpstv.net/streams/708861.m3u8
 风云剧场,https://mursor.ottiptv.cc/mcp/fyjc.m3u8
 风云剧场,http://iptv.666230.xyz/iptv/jsyd.php/G_FENGYUNJC-CQ
 风云剧场,http://www.qfly9236.cn:8888/rtp/239.253.92.22:6073
 风云剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226950/index.m3u8
+风云剧场,https://raw.githubusercontent.com/adminouyang/jy/refs/heads/main/migu/ysp.js/fyjc
 怀旧剧场,https://cc06.tv12.xyz/52.m3u8
 怀旧剧场,https://hls-gateway.vpstv.net/streams/708853.m3u8
 怀旧剧场,https://mursor.ottiptv.cc/mcp/hjjc.m3u8
@@ -252,6 +254,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 怀旧剧场,http://www.qfly9236.cn:8888/rtp/239.253.92.98:6120
 怀旧剧场,https://gd202.tv1288.xyz/tsfile/live/1048_1.m3u8
 怀旧剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226972/index.m3u8
+怀旧剧场,https://raw.githubusercontent.com/adminouyang/jy/refs/heads/main/migu/ysp.js/hjjc
 女性时尚,https://cc06.tv12.xyz/95.m3u8
 女性时尚,http://iptv.666230.xyz/iptv/jsyd.php/G_NVXINGSS-CQ
 女性时尚,http://www.qfly9236.cn:8888/rtp/239.253.92.249:6103
